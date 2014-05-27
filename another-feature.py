@@ -1,1 +1,1 @@
-#!/usr/bin/env python
+print("What a feature !!!")
